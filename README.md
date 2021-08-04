@@ -1,5 +1,6 @@
 # Easy-Trackers
 A proposal for automatic platform allotment for trains.
+
 The Risk factors for the proposed is as follows:
    * Delayed updates to database
    * Delayed trains 
